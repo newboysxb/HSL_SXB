@@ -1,0 +1,5 @@
+name,address,dataType,length,description
+temperature,s=1;100,float,1,Celsius temperature
+pressure,s=1;102,float,1,Pressure in MPa
+running,s=1;1000,bool,1,Running flag
+barcode,s=1;200,string,8,Product barcode
